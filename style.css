@@ -1,0 +1,90 @@
+nav{ display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+  }
+  
+  .logo{
+    justify-content: flex-start;
+  }
+  
+  .home{
+    justify-content: center;
+  }
+  
+  .login{
+    justify-content: flex-end;
+  }
+
+
+
+
+.color{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.een{
+    display: flex;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.twee{
+    display: flex;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.drie{
+    display: flex;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.vier{
+    display: flex;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+.colorreverse{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.een{
+    display: flex;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.twee{
+    display: flex;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.drie{
+    display: flex;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.vier{
+    display: flex;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
